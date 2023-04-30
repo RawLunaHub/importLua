@@ -1,0 +1,2 @@
+# importLua
+Import like python
