@@ -1,2 +1,2 @@
 # importLua
-Import like python
+Importing like Python using library
